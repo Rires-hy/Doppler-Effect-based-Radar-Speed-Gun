@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Code_Project/SpeedTracker_Display/display_control_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="display_control_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/display_control_tb/led1_pin_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">led1_pin_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">led1_pin_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/led2_pin_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">led2_pin_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">led2_pin_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/uut/serial_control/noti" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">noti</obj_property>
+      <obj_property name="ObjectShortName">noti</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/rstn" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/uut/rst_control/sys_rst_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sys_rst_n</obj_property>
+      <obj_property name="ObjectShortName">sys_rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/osc_1p8M" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">osc_1p8M</obj_property>
+      <obj_property name="ObjectShortName">osc_1p8M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/serial_in" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">serial_in</obj_property>
+      <obj_property name="ObjectShortName">serial_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/send_start" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">send_start</obj_property>
+      <obj_property name="ObjectShortName">send_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/data_frame" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_frame[10:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/display_control_tb/uut/serial_control/msg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">msg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">msg[7:0]</obj_property>
+   </wvobject>
+</wave_config>

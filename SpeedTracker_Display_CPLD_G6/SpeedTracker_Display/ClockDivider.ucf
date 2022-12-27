@@ -1,0 +1,3 @@
+NET "rst_n" LOC=FB1_13;	    #PIN30
+NET "clk_div4" LOC=FB2_6;     #PIN42
+NET "clk" LOC=FB2_7;     #PIN43 1.8432MHz

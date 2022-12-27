@@ -1,0 +1,20 @@
+NET "segL[0]" LOC=FB4_7;    #PIN 8 LA
+NET "segL[1]" LOC=FB4_11;   #PIN12 LB
+NET "segL[2]" LOC=FB4_13;   #PIN13 LC
+NET "segL[3]" LOC=FB4_15;   #PIN16 LD
+NET "segL[4]" LOC=FB4_14;   #PIN14 LE
+NET "segL[5]" LOC=FB4_2;    #PIN6 LF
+NET "segL[6]" LOC=FB4_1;    #PIN5 LG
+NET "segL[7]" LOC=FB2_2;    #PIN40 LDP
+
+NET "segR[0]" LOC=FB1_10;   #PIN33 RA
+NET "segR[1]" LOC=FB1_9;    #PIN34 RB
+NET "segR[2]" LOC=FB1_3;    #PIN36 RC
+NET "segR[3]" LOC=FB1_1;    #PIN38 RD
+NET "segR[4]" LOC=FB1_2;    #PIN37 RE
+NET "segR[5]" LOC=FB1_11;   #PIN32 RF
+NET "segR[6]" LOC=FB1_12;   #PIN31 RG
+NET "segR[7]" LOC=FB3_1;    #PIN29 RDP
+
+NET "rst_n" LOC=FB1_13;	    #PIN30
+NET "clk" LOC=FB2_7;     #PIN43 1.8432MHz
