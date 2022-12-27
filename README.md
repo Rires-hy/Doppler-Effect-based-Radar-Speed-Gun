@@ -1,1 +1,4 @@
 # Doppler-Effect-based-Radar-Speed-Gun
+A Doppler-effect based radar speed gun is a device that uses the Doppler effect to measure the speed of a moving object. It works by emitting a radio frequency (RF) beam towards the moving object and measuring the frequency shift of the reflected beam. The Doppler effect, also known as the Doppler shift, is a change in frequency or wavelength of a wave in relation to an observer who is moving relative to the wave source.
+
+In the case of a radar speed gun, the RF beam is emitted towards the moving object and reflects off its surface. The frequency of the reflected beam is measured and compared to the frequency of the original beam. The difference between the two frequencies is proportional to the speed of the moving object. The radar speed gun calculates the speed based on the Doppler shift and displays the result on a screen or a digital display.
